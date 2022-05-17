@@ -10,12 +10,12 @@ A raw webcam feed window should pop up. Sit up straight to avoid the error sound
 
 ## Descriptions to other files
 
-- Final Report.docx contains my final report.
-- LinkToVideo contains the link to my live demo video.
-- Pose Detection Trainer.ipynb contains the code I used to train my model.
-- Pose Detection Model.ipynb only contains the code to run the sitting posture classification task.
-- Presentation.pptx contains my final presentation slides.
-- body_language_gb.pkl, body_language_lr.pkl, body_language_rc.pkl, body_language_rf.pkl contains the ML models I trained.
-- coords.csv contains the unprocessed data.
-- coords - coords.csv contains the processed data.
-- error.wav contains the audio file I used in my code.
+- "Final Report.docx" contains my final report.
+- "LinkToVideo" contains the link to my live demo video.
+- "Pose Detection Trainer.ipynb" contains the code I used to train my model.
+- "Pose Detection Model.ipynb" only contains the code to run the sitting posture classification task.
+- "Presentation.pptx" contains my final presentation slides.
+- "body_language_gb.pkl", "body_language_lr.pkl", "body_language_rc.pkl", "body_language_rf.pkl" contains the ML models I trained.
+- "coords.csv" contains the unprocessed data.
+- "coords - coords.csv" contains the processed data.
+- "error.wav" contains the audio file I used in my code.
